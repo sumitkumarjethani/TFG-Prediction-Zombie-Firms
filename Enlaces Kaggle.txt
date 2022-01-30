@@ -1,0 +1,21 @@
+
+***
+
+IMPORTANTE: ES NECESARIO INICIAR SESIÓN EN KAGGLE PARA TENER CONEXIÓN A INTERNET O PARA USAR LA GPU
+
+ADEMÁS, SE ADJUNTAN AMBOS NOTEBOOKS EN FORMATO HTML (PARA MAYOR COMODIDAD) Y .ipynb
+
+
+***
+
+
+Notebook Etiquetado de las pymes españolas en Kaggle:
+
+	https://www.kaggle.com/sumitkumarjethani/etiquetado-de-las-pymes-espa-olas
+
+
+Notebook Predicción de pymes zombis españolas en Kaggle:
+
+	https://www.kaggle.com/sumitkumarjethani/predicci-n-de-pymes-zombis-espa-olas-ipynb
+
+
